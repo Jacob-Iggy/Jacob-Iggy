@@ -10,12 +10,15 @@ Over the past few years I've focused on mobile and web development, launching an
 
 ### 📱 Crispee
 A recipe saving app that lets users import recipes directly from social media and organize them into a personal cookbook. Built with a focus on simplicity and making it easier to actually cook recipes you discover online.
+**https://apps.apple.com/us/app/crispee-recipes-meals/id6758019969**
 
 ### 👕 Fit Rate
 An AI-powered outfit rating app designed to help users improve their style. Users upload photos of their outfits and receive feedback, scoring, and suggestions.
+**https://apps.apple.com/us/app/fit-rate-ai-fashion-stylist/id6746081861**
 
 ### ⚔️ Hardcore
 A gamified habit tracking app inspired by RPG and progression systems. Users level up and track habits through a ranking system designed to make self-improvement more engaging.
+**https://apps.apple.com/us/app/hardcore-habit-tracker-rpg/id6754932074**
 
 ---
 
