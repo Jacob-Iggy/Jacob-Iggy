@@ -27,17 +27,44 @@ A gamified habit tracking app inspired by RPG and progression systems. Users lev
 
 ## 🛠 Technologies
 
-**Programming Languages**
+### Programming Languages
 
-Java • Kotlin • Python • JavaScript • Swift • C
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=java" />
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=kotlin" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=python" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=js" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=swift" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=c" /> 
 
-**Web Development**
+<br />
+<br />
+<br />
 
-HTML • CSS • JavaScript • React • Firebase • MongoDB • Express
+### Web Development
 
-**App Development**
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=html" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=css" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=js" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=react" />
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=nextjs" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=firebase" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=mongodb" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=express" /> 
 
-React Native • Expo • SwiftUI • Supabase • Firebase
+<br />
+<br />
+<br />
+
+### App Development
+
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=react" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=swift" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=supabase" /> 
+<img align="left" alt="typescript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=firebase" /> 
+
+<br />
+<br />
+<br />
 
 ---
 
